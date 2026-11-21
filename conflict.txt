@@ -1,1 +1,2 @@
-Рядок з г?лки main 
+Line from main
+Line from conflict_test
